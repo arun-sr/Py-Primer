@@ -22,6 +22,7 @@ We also have In-built Methods documentation with examples documented in a formal
 ***
 
 # Developed by:
+ + #### [arun-sr](https://github.com/arun-sr) (Arun SR)
  + #### [vhawk19](https://github.com/vhawk19) (Varun)
  + #### [Corruption13](https://github.com/Corruption13) (Sandeep)
  + #### [ATR-OC](https://github.com/ATR-OC) (Ashley)
